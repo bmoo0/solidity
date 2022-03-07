@@ -8,11 +8,11 @@ contract c {
 // ----
 // set(uint256): 1, 2 -> true
 // gas irOptimized: 110604
-// gas legacy: 111091
+// gas legacy: 111088
 // gas legacyOptimized: 110733
 // set(uint256): 2, 2, 3, 4, 5 -> true
 // gas irOptimized: 177564
-// gas legacy: 178021
+// gas legacy: 178018
 // gas legacyOptimized: 177663
 // storageEmpty -> 0
 // copy(uint256,uint256): 1, 2 -> true

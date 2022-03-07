@@ -19,7 +19,7 @@ contract C {
 // ----
 // constructor(), 20 wei
 // gas irOptimized: 219069
-// gas legacy: 294569
+// gas legacy: 294335
 // gas legacyOptimized: 174483
 // f(uint256): 20 -> 1370859564726510389319704988634906228201275401179
 // x() -> 1
